@@ -1,0 +1,6 @@
+{
+  "name": "Legalizes",
+  "description": "AI Legal Agent for Chile",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
